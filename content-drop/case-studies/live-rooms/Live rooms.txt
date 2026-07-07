@@ -1,0 +1,190 @@
+﻿Live rooms
+On case study page: Live Rooms was imagined as a way to bring people together while watching live TV, offering chat, reactions, and interactive features to make shared viewing more social and fun. But while the idea was exciting, it was still just that: an idea.
+We needed to understand if this experience actually aligned with how users watch live content today, and whether features like real-time chat and quizzes would enhance or disrupt that flow.
+This concept test set out to explore those questions by validating user interest, uncovering behavioral patterns, and identifying what would make interactive viewing feel natural, engaging, and worth building.
+
+On specific page:
+
+
+ Live Rooms Concept Test
+
+
+Background 
+
+
+Live Rooms is a conceptual feature aimed at enhancing real-time TV viewing with interactive social experiences. The idea is to allow users to chat, react with emojis, and participate in live trivia while watching their favorite shows or sport.
+
+
+Research Goals:
+
+
+Evaluate whether the Live Rooms concept resonates with users.
+Understand if real-time interaction can increase emotional investment, social connection, and engagement.
+Ensure these interactions do not disrupt the core viewing experience.
+Explore how users organically adopt these features across different content types (e.g., sports vs. reality shows)
+Explore adoption across different platforms (TV vs. mobile)
+
+
+Research emthodologies: concept testing -> scoping(vendor) -> beta testing (grp 1&2) -> participant feedback survey -> platform engagement analysis
+Target Audience & User Segments
+Concept Testing: 4 Participants with experience in interactive streaming like Twitch, Youtube Live, etc.   4 Participants with no experience in interactive streaming.
+
+
+Sport Watcher (NBA): 79 participants with varying age range. 95% participants responded to the feedback survey.
+
+
+Reality Watchers (Jersey Shore): 35 participants with 98% survey response rate. 
+
+
+Tools & Platforms
+
+
+LiveLike - Vendor with an interactive platform
+UserZoom - Survey distribution and analysis
+User Interviews - Participant recruitment and scheduling.
+Google Drive - Interview recordings, documentation, and share-outs
+Invision - KJ analysis of interview feedback
+Concept
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Key Insights:
+
+
+Users showed interest in social interaction features, but the ideal level and format of interaction remain unclear.
+
+
+There is potential value in second-screen experiences, but we need to explore when and how users naturally engage.
+
+
+Interactive elements like reactions and quizzes were received positively, but their role in sustained engagement is unknown.
+
+
+The concept raised questions about how different user types (active vs. passive viewers) would navigate this experience.
+
+
+Content type may influence interaction preferences. More research is needed to understand contextual expectations.
+
+
+
+
+From Concept to Product Test
+Our initial concept test, through low-fidelity storyboards and speed-dating sessions, sparked strong interest in the Live Rooms feature. While it validated early excitement, it also left key questions unanswered, such as:
+
+
+How would users actually behave during real-time interactions?
+
+
+Would engagement vary by content type (e.g., sports vs. reality TV)?
+
+
+What features truly add value vs. create distractions?
+
+
+To explore these unknowns, we partnered with a third-party vendor whose app offered similar interactive capabilities. This allowed us to simulate the Live Rooms experience more realistically and observe actual user behavior during live content.
+
+
+We invited Sling customers to participate in two separate product tests:
+
+
+An NBA game (Round 1) to capture fast-paced, high-energy sports engagement
+
+
+An episode of Jersey Shore-style reality TV (Round 2) to observe slower-paced, emotion-driven social interactions
+
+
+Our goal was to understand how different viewer segments engaged with chat, reactions, and second-screen features and what design implications would emerge.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Live Testing Insights
+
+
+87% of users liked interactive features but wanted control, like turning chat on/off or choosing when to engage.
+
+
+76% preferred using their phone to interact while watching on TV, showing a natural second-screen behavior.
+
+
+Emoji reactions (56%) and quizzes (41%) boosted engagement and made the experience more fun.
+
+
+40% felt the chat was overwhelming; 22% were unhappy with the pace, users want better chat structure.
+
+
+Sports fans liked fast chat and emojis, while reality TV fans preferred polls and quizzes, design should adapt by content type.
+
+
+Business Impact
+
+
+| Air Date | Show | Avg. Unique Viewers | Avg. View Time in Hrs | Avg. Hrs per User | Impact |
+| --- | --- | --- | --- | --- | --- |
+| **6/23** | **Jersey Shore Family Vacation** | 13,668 | 43,017 | 3.1 | 1,822,664,704 |
+| 6/26 | BET Awards | 14,889 | 33,054 | 2.2 | 1,082,710,213 |
+| 6/26 | The Chi | 12,097 | 38,207 | 3.2 | 1,479,008,253 |Business Impact
+Air Date
+	Show
+	Avg. Unique Viewers
+	Avg. View Time in Hrs
+	Avg. Hrs per User
+	Impact
+	6/23
+	Jersey Shore Family Vacation
+	13,668
+	43,017
+	3.1
+	1,822,664,704
+	6/26
+	BET Awards
+	14,889
+	33,054
+	2.2
+	1,082,710,213
+	6/26
+	The Chi
+	12,097
+	38,207
+	3.2
+	1,479,008,253
+	
+
+
+
+Conclusion: The Live Rooms concept was a clear win with user engagement being high, feedback was enthusiastic, and the experience proved that interactive features can meaningfully enhance live TV viewing. Across both sports and reality content, users felt more connected, entertained, and excited to participate.
+
+
+Our research delivered strong validation for the concept and uncovered critical insights around user behavior, second-screen habits, and content-driven preferences. It also helped us identify key considerations for building a future-ready product: real-time performance, moderation tools, and scalable infrastructure to support large, live audiences.
+
+
+While the feature wasn't launched immediately, the test set a solid foundation for future innovation. The user enthusiasm and clear engagement signals remain strong indicators of potential, positioning Sling to lead in redefining the live viewing experience when the time is right.

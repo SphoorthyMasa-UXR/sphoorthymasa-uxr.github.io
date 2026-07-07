@@ -1,0 +1,272 @@
+Feature Evaluation: Guide
+ 
+Sphoorthy Masa
+Lead UX Researcher
+
+Research Questions, Key Insights, & Impact
+Executive Summary
+Problem: Nearly half of guide sessions end without playback, revealing hidden usability barriers that impact engagement and revenue.
+Research Questions:
+Why do so many sessions stall before playback?
+How might we improve guide usability to reduce drop-offs and help users launch content faster?
+Key Pain Points Identified:
+Excessive scrolling to find content
+Channel clutter causing confusion
+Low usage of filters and favorites that could streamline navigation
+Impact:
+Design iterations driven by research insights significantly enhanced guide efficiency, reduced user drop-offs, and unlocked an estimated ~$1M in incremental revenue potential.
+
+(Skip)
+2
+
+Study Details 
+Background & Context
+Guide: The Heart of Content Discovery
+CXO surveys revealed frequent complaints:
+Guide is cluttered
+Too many unwanted channels
+I can’t find what I’m looking for
+Difficulty differentiating language channels
+Business Risk: Usability issues in the Guide may lower engagement, leading to lost ad revenue and retention risks.
+The guide should help me find something fast…but instead, I get lost.
+“
+I noticed repeated Guide mentions in CXO survey share-outs. Survey was too high-level to explain why users disliked the guide
+
+3
+
+Study Details 
+Research Objectives
+Quantitative Analysis
+Guide usage rates
+Drop-off rates
+Sub-feature engagement
+
+Qualitative Research 
+Understand user frustrations with the current guide
+Identify usability barriers and drop-off points
+Investigate perceptions of unwanted channels, filters, favorites, and navigation
+Uncover differences across TV device cohorts (Roku, Apple TV, Samsung)
+Generate actionable recommendations 
+
+
+I proactively engaged stakeholders: PMs, Product designers, AnalyticsDefined core research questions: “Where are users struggling, and why?”
+
+4
+
+5
+
+Quant Insights
+Guide Engagement Is High, But Not Always Effective
+79% of active users interacted with the guide 
+Yet only 56% of sessions led to playback
+44% of sessions ended without watching anything
+Average time spent on the guide: 7.4m
+TV devices are more likely to use guide than Phone/Tablet or Browser devices.
+
+Quant Insights
+Low Adoption of Filters & Favorites
+Use of Guide Screens
+Guide Screen Name
+Screen Use
+Percent of Sessions
+ALL (DEFAULT)
+72.7%
+SPORTS
+10.4%
+FAVORITES
+9.0%
+A-Z
+4.7%
+RECENTS
+3.9%
+MOVIES
+3.6%
+NEWS & OPINION
+2.0%
+ENTERTAINMENT
+1.8%
+Other Screens
+<1% per screen
+72% of sessions used the default “ALL” guide view. Only:
+12% switched filters
+9% used the Favorites filter
+However, sessions using Favorites had a 83.9% playback rate
+Higher than 55.4% for sessions without Favorites
+Median time to playback of 24s
+Average playback time for filter users is 53s
+
+Study Details 
+Participants and Methodology
+Participants
+6 Active Sling TV customers - Roku, Apple TV, Samsung
+Age range: 35-65 yo
+Guide power user 
+Watches at least 3+ hrs of TV
+Uses guide at least twice a day
+Seek quick content access
+Drop off within 45s after launching content
+Subscribed to other streaming services 
+Research Methodology
+Moderated in-depth interviews
+Remote Usability testing
+Research question: Why do nearly half of guide sessions end without playback, and how can we improve guide usability.
+
+
+
+Study Details 
+Primary Interview Questions
+How do you usually find content to watch?
+How do you use the guide to navigate to your favorite channel?
+What do you like & dislike about the Guide?
+If there is one thing you could change about your current experience, what would it be?
+Have you ever tried to find shortcuts to find your content faster?
+What types of channels do you come across while you are browsing?
+
+Study Details 
+Primary Usability Tasks
+Imagine it’s Friday night, and you’re ready to relax and watch something. Using the guide, find a show that you’d genuinely want to watch right now, and start playing it.
+Think about a channel you watch regularly and really enjoy. Show me how you’d get to it quickly.
+Imagine you’re curious about planning a future vacation or just love seeing new places. Use the guide or other tools to find a new travel channel you’ve never watched before.
+
+Analysis
+https://docs.google.com/presentation/d/17Dn2BBHTVE0xGwAAtMUdluRw6e2IhxPOfI000rEMEIY/edit#slide=id.g25ba9cafe05_0_726
+
+Analysis Approach
+Thematic Analysis
+Data Collected:
+Interview notes & transcripts
+Usability task metrics
+Session recordings
+Process:
+Tagged notes and observations with codes
+Clustered related codes into themes
+Linked qualitative themes back to quantitative metrics 
+“I used thematic analysis as my primary analysis method. As part of that, I applied affinity mapping (KJ method) to visually cluster observations and identify emerging themes.”
+
+Insights
+https://docs.google.com/presentation/d/17Dn2BBHTVE0xGwAAtMUdluRw6e2IhxPOfI000rEMEIY/edit#slide=id.g25ba9cafe05_0_726
+
+Free and subscribed channels appear together
+Many users mistakenly assume some paid channels are free
+Interview quotes describe “unwanted channels” cluttering the guide and dissatisfaction.
+This confusion leads to exits without playback and reduced engagement.
+Insights
+Mixed Channel Listings Create Confusion and Frustration
+
+I’m just scrolling and scrolling…there’s so much garbage in there I never watch.
+“
+The only thing I would suggest is to get rid of the duplicate channels.
+“
+There are so many channels that it takes a while to scroll through each one to find what I want to watch. I feel like I’m scrolling for eternity 
+“
+
+Users struggle to find desired content due to long, cluttered channel lists.
+Users spend excessive time scrolling through irrelevant content.
+Leads to cognitive overload and fatigue.
+Users want:
+The ability to hide channels they never watch.
+An easy way to show/hide hidden channels when desired.
+
+Insights
+Overloaded Channel Lineups Overwhelm Users 
+I would say a 3. [on how confident I am finding necessary info using the guide.]
+“
+I’d rather just hide stuff I never watch, so it’s not in my way.
+“
+This participant mentioned "shopping channels" as unwanted channels. Other participant mentioned the channels they never watch. So it really isn't about entitled or free, it's what users perceive as junk channels.
+
+Many users avoid filters because:
+Labels are vague and limited.
+Filter controls are hard to find.
+Users fear losing their place in the guide when switching views.
+Instead, users default to endless scrolling.
+Users expressed interest in personalized filters to surface relevant content faster.
+Insights
+Current Filters Go Unused Due To Lack Of Easy Access
+I sometimes don't use the filters because I forget they’re even there, and it feels like it takes too long to scroll back up to access them.
+“
+I’m scared if I change the filter, I’ll mess up what I’m looking at.
+“
+It’s not a major inconvenience but it’d be nice if I can just go the channels at the bottom where travel channels are there
+“
+
+Research Suggestions
+https://docs.google.com/presentation/d/17Dn2BBHTVE0xGwAAtMUdluRw6e2IhxPOfI000rEMEIY/edit#slide=id.g25ba9cafe05_0_726
+I based my research suggestions on impact vs effort matrix
+
+On Boarding
+
+Clearly communicate upcoming guide changes at first use to set expectations
+Highlight new controls and what users can do differently in the updated guide
+Explain the value and outcomes of each feature, not just the feature itself
+Focus messaging on how the changes improve navigation and reduce clutter
+
+
+(Ex: Better channel grouping + Browse through categories effortlessly.)
+18
+
+First time users + Favoriting
+
+Introduce an immediate entry point for first-time users to begin favoriting channels
+Encourage early engagement with the favorites feature to increase time-to-video and overall viewing duration
+Implement a 30-day re-engagement banner for users who have not favorited channels
+Offer an auto-favorite option (e.g., top six most-watched channels) to reduce friction and jumpstart personalization
+
+19
+
+Metadata
+
+Enhance content metadata with richer artwork, descriptions, and additional tags
+Enable users to better understand content at a glance and make more confident viewing decisions
+Reduce hesitation and comparison time by clearly signaling what each title offers
+Support faster content selection by strengthening the connection between visual cues and content expectations
+
+20
+
+Contextual Side Drawers
+
+Use side drawers to surface additional information without disrupting the main experience
+Provide quick access to secondary actions and controls within context
+Enable personalization management directly from the guide
+Balance added functionality with a clean, simple interaction model
+
+21
+
+Personalization
+
+Give users control over how their guide is organized and displayed
+Enable personalization through favorite channel management
+Allow channel sorting by categories or A–Z
+Let users choose which channels are displayed or hidden
+Support collapsing and expanding channel groups to reduce clutter and improve scannability
+22
+
+Decluttering Free Stream
+
+Reduce guide clutter caused by the addition of FreeStream channels
+Improve navigation speed and ease of browsing within the guide
+Allow users to show or hide FreeStream channels at the category level
+Maintain access to FreeStream content while giving users control over visibility
+
+23
+
+Business Impact
+https://docs.google.com/presentation/d/17Dn2BBHTVE0xGwAAtMUdluRw6e2IhxPOfI000rEMEIY/edit#slide=id.g25ba9cafe05_0_726
+
+Design Iteration 
+New UI Impact
+
+Filter use up by 39%
+Favorites engagement up by 57%
+Launch time dropped from 25s to 17s
+Boosted incremental ad revenue by $28.8k/year
+In-app purchases: ~5% of users made purchases, generating an estimated $925k/year
+UMUX-Lite Score: 92
+
+
+In-app purchases generate an additional $925,000 per year (from 5% of subscribers making in-app purchases at an average of $10 each).
+
+Thank You & Questions
+
+
+In-app purchases generate an additional $925,000 per year (from 5% of subscribers making in-app purchases at an average of $10 each).

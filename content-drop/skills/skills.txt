@@ -1,0 +1,64 @@
+﻿Skills
+
+
+Research Methodologies
+
+
+Quantitative research methods: Surveys, A/B Testing, Competitive Analysis, Data Analysis, First-click Testing, Heat Maps.
+
+
+Qualitative research methods: User Interviews, Usability testing, User Observations, Cart Sorting, Contextual Interviews, Focus Groups, Heuristic Evaluation, Journey mapping, Personas, Ethnography, Stakeholder Interviews, Competitor Analysis, Pop-up Studies.
+
+
+Tools: UserZoom, UserTesting, User Interviews, Qualtrics, Airtable, Quantum Metric, Figma, Hotjar, Dovetail, Lookback, SurveyMonkey. 
+
+
+
+
+
+
+
+
+UX Metrics
+
+
+System Usability Scale (SUS)
+
+
+Usability Metric for User Experience (UMUX-Lite)
+
+
+Usability Metrics
+
+
+Task Success Rate
+Time-on-Task
+Use of Search vs. Navigation
+User Error Rate
+Task Level Satisfaction
+Test Level Satisfaction
+
+
+
+
+Process & Frameworks
+
+
+Delivery Methodologies
+
+
+Agile
+Waterfall
+Dual-track Agile
+Research & Strategy Frameworks
+
+
+Jobs To Be Done (JTBD)
+Lean UX
+Design Thinking
+
+
+© 2019 SPHOORTHY_MASA
+Powered by Webnode
+This website was made with Webnode. Create your own for free today!
+Get started

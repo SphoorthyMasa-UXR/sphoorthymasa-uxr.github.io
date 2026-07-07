@@ -1,0 +1,4 @@
+Drop your home page content here:
+- headshot image
+- recommendations text (quotes from LinkedIn)
+- any hero/about text from your webnode

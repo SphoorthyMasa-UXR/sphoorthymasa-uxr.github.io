@@ -1,0 +1,187 @@
+IMEI Checker Optimization in BYOD Flow
+
+Boost Mobile | UX Research
+Sphoorthy Masa
+
+
+Outline
+Business Problem 
+Research Approach
+Key Insights
+Actionable Recommendations
+Business Impact 
+
+
+Business
+Problem 
+
+
+High Drop-Off at IMEI Step
+
+Significant bounce on IMEI entry page despite the redesign to simplify instructions.
+Critical step for BYOD activation funnel.
+Drop-off = lost activations and revenue.
+
+
+
+
+Why are users bouncing at IMEI step?
+Do users understand:
+What IMEI is
+How to find it
+Why it is required
+What gaps are causing hesitation or drop-off
+
+Research Objectives
+
+Quantitative survey (n=1000) via UserTesting
+Unmoderated usability (n=15) via UserZoom
+Executed in parallel
+Executed timeline: 3 days
+
+Methodology Overview
+
+Survey:
+IMEI understanding
+Instructions clarity
+Privacy/security perception
+Usability Test:
+Visit live Boost BYOD flow
+Locate IMEI on their device
+Enter IMEI and proceed
+
+Study Design
+
+Key Insights
+
+01 - Users Don’t Understand What IMEI Is
+Low baseline awareness of IMEI concept
+Users hesitant to proceed without understanding purpose
+Creates cognitive friction before action
+
+02 - IMEI Is Perceived as Low Importance and Low Comfort to Share
+Importance of IMEI
+
+02 
+IMEI ranked lowest among information users consider important during purchase 
+IMEI ranked lowest in comfort level for sharing personal/device information 
+Indicates low perceived relevance and higher sensitivity 
+
+User Comfort Level
+
+03 - Trust & Privacy Concerns Block Completion
+Users unsure why IMEI is needed
+Concern about sharing device-specific information
+No reassurance or explanation present
+
+
+04 - Navigation Mismatch Breaks User Expectations 
+IMEI help link redirects to generic BYOD page
+No IMEI-specific content on landing
+Users expect dedicated IMEI explanation
+
+
+05 - Instruction Clarity Is Strong, But Purpose and Trust Remain Weak 
+
+06 - Users Feel Confident Finding IMEI When Guided 
+81% reported confidence in finding IMEI after viewing instructions 
+56.4% of users said they’d be willing to enter IMEI if “why it’s needed” is clearly explained 
+Indicates instructions are directionally effective
+
+
+Finding the IMEI is not the primary barrier
+Bounce at the IMEI step is driven by a combined breakdown in:
+
+Understanding
+Perceived importance
+Trust
+Help experience design
+Synthesis
+
+Finding the IMEI is not the primary barrier
+Bounce at the IMEI step is driven by a combined breakdown in:
+
+Understanding
+Perceived importance
+Trust
+Help experience design
+Synthesis
+Right Moment
+Provide education exactly when users reach the validation point.
+Justify & Reassure
+Explain the benefit (e.g., Instant eSIM) before asking for high-effort data.
+Stay in Flow
+Surface information inline to prevent users from exiting the funnel to find answers.
+Experience Principles
+
+Actionable Recommendations
+
+Introduce IMEI education that explains:
+
+What IMEI is
+Why it is required
+How it is used in the BYOD process
+
+Delivered through:
+
+Dedicated IMEI help page
+Marketing emails
+Social Media Blogs
+
+1: Add Purpose-Driven Education
+
+User’s Happy Path
+Replace the current generic BYOD redirect
+Route users to IMEI-specific help content
+Match help destination to user intent
+
+Delivered through:
+
+Swapping linkable copy from Unlock to IMEI
+Linking the right Help page
+
+
+2: Fix the Help Experience
+
+Reduce flow abandonment by surfacing support inline:
+
+Modal or drawer with IMEI explanation
+Quick steps to find IMEI
+Lightweight trust and privacy reassurance
+
+Delivered through:
+
+Inline expandable content
+Modal within flow
+
+
+3: Keep Users in Flow
+
+
+I partnered with Product and E-commerce teams to align on an education-first solution
+IMEI-specific content improvements were implemented
+Post-launch measurement will evaluate performance change
+Scaling to other innovation projects that uses IMEI
+
+What Happened next?
+
+
+Business Impact
+
+Business Impact
+91K+ users reach IMEI step monthly
+4,363 users drop off at this step
+4.79% bounce rate at a critical validation point
+
+Questions?
+
+Finding the IMEI is not the primary barrier
+Bounce at the IMEI step is driven by a combined breakdown in:
+
+Understanding
+Perceived importance
+Trust
+Help experience design
+Synthesis
+Adding synthesis slides - The above slides are more of presentation and obviously this will be the follow up questions. I want to focus on showing the analysis. What did i do, what did the research tool do, how did i synthesize, mostly its graphs so there was clear quantifiable data, and the tool I used have simple top themes and number of mentions. I relied my initial categories and went through the open ended comments for specific themes to learn. I also went through the different age groups to see if different demographics leaned one way or another, but th responses were similar unrelated to the demographics, so I decided to include the whole group instead of sepating the insights based on demographics. There are these graphs that mentioned about the the issues clear cut and as I increased the scope, I was able to add multi choice options for users to select. And I also focused on the other comment to focus on any blind spots I haven’t considered in the hypothesis. There might be a follow up question for what if users only select an option because its convenient. Since its a gen pop survey, I anticipated and built the study to be as simple as possible to reduce the cognitive load. So I randomized options so users dont selecta  convenient option and if there were no standing themes or ambiguous ones, I was planning to do a further round of research for a deeper analysis and problem identification. Since this was a rapid test, I believed this would give us maxim of insights and keeping the solution iterative, we can build based on the incremental changes. 
+

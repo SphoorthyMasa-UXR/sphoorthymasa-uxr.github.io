@@ -1,0 +1,280 @@
+Boost Mobile Store-to-Door (IHS)Quantitative Survey Analysis
+
+Sphoorthy Masa - June 2026
+
+"Thanks everyone for making time. Today I'm walking you through the results of our Store-to-Door quantitative survey — 539 respondents across 5 age segments. The goal was simple: validate whether there's real demand for our in-home setup service, understand who wants it and why, and identify where we should and shouldn't be spending marketing dollars."
+
+
+
+Executive Summary
+OBJECTIVE: Validate demand for Boost Mobile's Store-to-Door in-home setup service across 5 age segments.
+
+S2D interest is driven by CONVENIENCE + SWITCH INTENT, not by tech inability.
+  • 18-34: Highest interest (3.31/5), highest switch intent, highest NPS (7.7/10)
+  • 65+: Lowest interest (2.13/5), structural trust barriers, not in-market
+  • Difference is statistically significant: t=7.22, p<0.001 
+
+HYPOTHESES TESTED:
+  H1: 'Older users who struggle with tech will prefer S2D' → DEBUNKED (correlation ≈ 0)
+  H2: 'Rural users prefer S2D due to no store access' → NOT SUPPORTED (p=0.12)
+  H3: 'Hassle-free switching appeals to active switchers' → CONFIRMED (p<0.001)
+
+BUSINESS IMPLICATION: Focus 70%+ of S2D budget on 18-44. Deprioritize 55+.
+"Let me give you the exec summary upfront so you have the frame as we go deeper. The big finding is counterintuitive: S2D interest is driven by convenience and switching intent, not by tech inability. The people who are most excited about this service are young, tech-savvy, and already shopping for a new carrier. The people who struggle most with phones — the 55+ crowd — actually don't want this. We also tested two specific hypotheses that the team had going in. One was confirmed, one was debunked. I'll walk through both with the data for a deeper dive."
+
+Methodology & Analysis Rigor
+STUDY DESIGN
+  • Unmoderated quant survey (UserZoom)
+  • 5 parallel age segments
+  • N = 539 completed responses
+  • US adults, active mobile users
+  • Non-Boost customers (prospect audience)
+  • Concept exposure: S2D screenshots
+  • Data: June 17-18, 2026
+
+SAMPLE BY SEGMENT
+  • 18-34: n=102
+  • 35-44: n=105
+  • 45-54: n=103
+  • 55-64: n=110
+  • 65+: n=119
+ANALYSIS METHODS
+  • Descriptive: means, %, distributions
+  • Top-2-Box (T2B): % scoring 4-5 on 5pt scale
+  • 95% Confidence Intervals on all key metrics
+  • Independent-samples t-tests (group comparisons)
+  • Pearson r correlations (variable relationships)
+  • Cross-tabulation: Area × S2D metrics
+  • Within-group segmentation (e.g., conf level × interest)
+
+STATISTICAL REPORTING
+  • *** p < 0.001
+  • ** p < 0.01
+  • * p < 0.05
+  • NS = not significant (p ≥ 0.05)
+  • All data read programmatically from Excel
+  • Zero manual transcription
+"Quick note on how we did this so you have confidence in the numbers. This was an unmoderated quant study on UserZoom — 539 completes across 5 parallel age segments. All US, all active mobile users, all non-Boost customers so we're looking at our prospect audience. On the analysis side, I computed confidence intervals, ran t-tests for every group comparison, and calculated correlations. Every time I say something is significant, there's a p-value behind it.."
+
+Who We Tested: Sample Demographics
+Respondents screened for: Active mobile phone user | Has personal cellular plan | NOT current Boost customer | US only
+Mix of carriers represented: AT&T, T-Mobile, Verizon, Cricket, Metro, Mint, Straight Talk, and others
+"Before we get into findings, here's who we talked to. Pretty balanced gender split, majority suburban which mirrors the US population, and you can see the sample sizes by age group — all north of 100 which gives us statistical power for comparisons. These are real carrier customers — AT&T, T-Mobile, Verizon, Cricket, Metro — the full competitive set. They're decision-makers who manage their own bills."
+
+Baseline: Phone Tasks Users Can Do Without Help
+"Now this is important context. This shows what percentage of each age group feels comfortable doing common phone tasks WITHOUT help. You can see the younger groups are highly capable across the board — downloading apps, connecting WiFi, transferring data. The older groups drop off, especially on things like activating SIM cards or transferring numbers. Keep this in your mind as we move forward — because here's the twist: the group that CAN do everything still WANTS S2D. That tells us something important about what's really driving demand."
+
+Overview: All Key Metrics by Age Group (Radar Chart)
+HOW TO READ:
+• Each colored loop = 1 age group
+• Outer edge = maximum score
+• Inner = lower scores
+
+KEY OBSERVATION:
+• 18-34 (orange) = largest loop
+• 65+ (blue) = smallest loop
+• The shrinkage is consistent
+  across ALL metrics, not just
+  one or two
+
+• This means age predicts
+  S2D receptivity broadly —
+  it's not a single-variable
+  story
+"This is my favorite chart in the deck. Each colored loop represents one age group across all our key metrics — confidence, switch intent, S2D interest, relevance, hassle-free appeal, and likelihood to consider Boost. Notice how the orange loop — that's 18-34 — is the largest, touching the outer edges. And each successive age group shrinks inward. The blue loop, 65+, is the smallest across every single dimension. This isn't a one-metric story — it's consistent across everything we measured. Age is the strongest predictor of S2D receptivity."
+
+Hypotheses Tested: What We Set Out to Validate
+H1: 'Older adults who struggle with tech will prefer S2D'
+     RESULT: DEBUNKED — Confidence does NOT predict interest (r ranges from -0.16 to 0.08)
+     Older adults have lower confidence BUT also lower interest. Trust barriers override need.
+
+H2: 'Rural users (no nearby stores) will prefer S2D more than urban/suburban'
+     RESULT: NOT SUPPORTED — Rural mean=2.54, Urban=2.80 (p=0.123, NS)
+     Urban actually trends slightly higher. Geographic strategy should follow age, not store density.
+
+H3: 'Hassle-free switching appeals most to those actively considering switching'
+     RESULT: CONFIRMED — Switch intent correlates with S2D interest. 18-34 (highest switch intent)
+     also shows highest hassle-free appeal. p < 0.001 ***
+
+H4: 'S2D can serve as a competitive differentiator for Boost Mobile'
+     RESULT: PARTIALLY CONFIRMED — It's a tiebreaker/bonus for 18-44, not a primary driver.
+     Carrier preference test (C48903): 18-34=2.35/5, 65+=3.17/5
+"Now moving on to the hypotheses we went in with. We had four. H1 was the assumption that older adults who struggle with tech would prefer S2D — debunked. The correlation between confidence and interest is basically zero. H2 was that rural users with no nearby stores would prefer home service — not supported, p equals 0.12. H3 was that hassle-free switching appeals to people already thinking about switching — confirmed, p less than 0.001. And H4, that S2D is a competitive differentiator — partially confirmed. It's a tiebreaker for young adults but not a primary purchase driver for anyone."
+
+
+
+Insight #1: 18-34 Is the Clear S2D Target Audience
+FINDING:18-34 leads every engagement metric:  • S2D Interest: 3.31/5 (T2B: 47%)  • Switch Intent: 2.85/5 (T2B: 29%)  • Hassle-Free: 3.18/5  • Consider Boost: 4.78/7  • NPS: 7.7/10STATISTICAL PROOF:  18-34 vs 65+: t=7.22, p<0.001 ***SO WHAT (Business Impact):Allocate 70%+ of S2D marketing to 18-44.3-5x higher conversion potential per $ spent.Channel: Social (TikTok/IG), search, YouTube pre-roll.
+"Alright, let's get into the insights in priority order. Number one: 18-34 is unambiguously our target audience. They lead on every single metric. Interest is 3.31 out of 5, nearly half score 4 or 5. Switch intent is highest — 29% are likely to switch in the next year. And the difference versus 65+ is massive and statistically significant at p less than 0.001. The so-what here is clear: this is where our marketing dollars should go. We're looking at 3 to 5x higher conversion potential per dollar versus spending on older audiences."
+
+Insight #2: The Confidence Paradox — Explained
+FINDING:High confidence does NOT mean low S2D interest.Correlations are near zero within every age group:  18-34: r = 0.078  35-44: r = -0.078  45-54: r = -0.164  55-64: r = 0.044  65+:   r = -0.128The REAL driver: convenience appetite.Confident 18-34 hassle-free: 3.21/5Confident 65+ hassle-free: 1.95/5  p < 0.001 ***SO WHAT:Position S2D as TIME-SAVING convenience (DoorDash),NOT as 'help for the incompetent' (tech support).
+"This one surprises people. You'd think that if someone is highly confident setting up their phone, they wouldn't want S2D. But look at these correlations — they're all near zero. Confidence simply does not predict interest. What DOES predict it? Convenience appetite. When we isolate just the highly confident users and ask about hassle-free appeal, 18-34 scores 3.21 versus 1.95 for 65+, and that difference is significant at p less than 0.001. The takeaway for positioning: this is DoorDash for phones, not tech support. Don't message it as help — message it as 'save time.'"
+
+Insight #3: Switch Intent Is the Real Predictor
+FINDING:S2D interest tracks with switching intent:  18-34: 29% likely to switch → 47% S2D interested  65+: 8% likely to switch → 14% S2D interested  Young vs Old switch: t=7.52, p<0.001 ***If you're not shopping, S2D is irrelevant — regardlessof whether you need help with phones.SO WHAT:Target in-market users (carrier comparison sites,'thinking about switching' retargeting). S2D convertsactive shoppers — it doesn't create new switching intent.
+"Here's the underlying mechanism. S2D interest tracks almost perfectly with switching intent. 29% of 18-34 are likely to switch and 47% are interested in S2D. Only 7% of 65+ are likely to switch and only 14% care about S2D. If you're not shopping for a new carrier, S2D is irrelevant — no matter how bad you are with phones. The implication: target people who are already in-market. Retarget on carrier comparison sites. Don't try to create switching intent from scratch — just be there when someone's already considering it."
+
+Insight #4: Rural Hypothesis — DEBUNKED
+ASSUMPTION:'No nearby Boost stores → prefer home service.'REALITY (from data):  Urban (n=151): interest = 2.80/5  Suburban (n=279): interest = 2.69/5  Rural (n=109): interest = 2.54/5  T-test: t=-1.55, p=0.123 (NS)Urban users actually trend HIGHER.SO WHAT:Do NOT prioritize rural-first geographic rollout.Target by AGE (18-44), not by store proximity.Urban/suburban 18-44 is the sweet spot.
+"Now this one we went in assuming would be true — that rural users without nearby stores would love home service. The data says no. Urban users actually trend slightly higher on S2D interest — 2.80 versus 2.54 for rural. The t-test gives us p equals 0.12, not significant. Why? Because rural respondents in our sample skew older, and older means more trust barriers plus lower switch intent. So the geographic strategy should follow age demographics, not store density. Urban and suburban 18-44 is the sweet spot."
+
+Insight #5: 'Free Delivery + Free Setup' Wins Message Testing
+FINDING:'Free delivery + free setup. Just pick a time.'is the top-performing message across ages.Why it wins:  • 'Free' addresses hidden-cost concern  • 'Pick a time' gives control/flexibility  • Tangible & specific (not vague)Weakest: 'Your personal phone expert'  — feels sales-y, no specificitySO WHAT:Use as primary campaign headline.A/B test vs 'Switch without stress' for young adults.Kill 'personal phone expert' from all creative.
+"We tested six different S2D taglines. The winner across most age groups is 'Free delivery plus free setup. Just pick a time that works.' It wins because it hits two things simultaneously — it says free, which addresses the hidden-cost concern, and it says pick a time, which gives people control. The weakest performer was 'Your personal phone expert' — it feels vague and sales-y. Recommendation: use the winning message as primary campaign copy and kill the 'personal expert' language from all creative."
+
+Insight #6: NPS Potential — 18-44 Will Amplify
+FINDING:After a hypothetical great S2D experience:  18-34: NPS = +18  35-44: NPS = +19  65+: NPS = -1018-34 has strongest promoter base.SO WHAT:Build referral incentive into S2D flow.Post-appointment: 'Share with a friend.'Each great experience compounds via WOM.
+"If we deliver a great S2D experience, 18-34 has the strongest promoter potential. Their NPS score is positive and significantly higher than older segments. Each successful appointment with a young adult has high referral potential — they'll tell their friends. The recommendation: build a referral incentive directly into the post-appointment flow. 'Share with a friend, you both get X.' Invest in flawless execution for early adopters because these users will amplify organically."
+
+Insight #7: Trust Barriers Are Structural for 55+
+FINDING:Key home-visit barriers increase with age:These are NOT solvable with messaging alone.'Prefer self-setup' is high across all ages —but combined with 'stranger' + 'data trust' + 'prefer store',55+ has compounding barriers that messaging can't fix.Qualitative evidence (verbatim):  • 'Nothing would make me choose this' (65+)  • 'I don't want strangers in my home' (55-64)  • 'For security reasons, no' (55-64)SO WHAT:Do NOT invest S2D marketing in 55+.Offer video-call guided setup as alternative.Serve this segment through stores + phone support.
+"Last major insight. For 55+, the barriers to S2D are structural — meaning they can't be solved with better messaging. 'Stranger in my home,' 'don't trust someone with my passwords,' 'I'd prefer to go to a store' — these compound. And the qualitative responses confirm it: people literally saying 'nothing would make me choose this.' These aren't objections you overcome with a better tagline. The recommendation: don't force S2D on 55+. Offer video-call guided setup as an alternative product that addresses the help need without the home-visit discomfort."
+
+Data: Top Concerns About Switching Carriers (All Respondents)
+"Now moving into additional data points. These aren't tied to a single insight but they're valuable context. This chart shows every concern people have about switching carriers in general — not about S2D specifically. The standout: 'network coverage might be worse' and 'hidden fees' dominate across all ages. This tells us that S2D messaging alone isn't enough — we have to pair it with network credibility. If someone doesn't trust our coverage, a free setup isn't going to move them."
+
+Data: What Users Think S2D Includes (Concept Comprehension)
+Users generally understand the offering well. 'Deliver & activate' and 'transfer number' have highest recognition across ages.
+"This shows what users think is included in S2D after seeing the concept screenshots. Good news — comprehension is strong. Most understood it includes delivery, activation, number transfer, and data migration. The service value prop is landing. There's no major confusion about what we're offering."
+
+Data: Preferred Format to Learn About S2D
+Short video (30-60s) ranks highest for younger groups. FAQ pages and testimonials also strong. Phone calls rank low.
+"When we asked how people prefer to learn about a service like S2D, short video — 30 to 60 seconds — wins for younger groups. FAQ pages and customer testimonials also rank well. Phone calls and text/chat are at the bottom. So our marketing content strategy should lead with short-form video, supported by a solid FAQ, and real customer testimonials once we have them."
+
+Data: S2D Interest Distribution (% Interested vs Neutral vs Not)
+KEY NUMBERS:
+  18-34: 47% interested
+  35-44: 40% interested
+  45-54: 33% interested
+  55-64: 22% interested
+  65+: 14% interested
+
+The 'not interested' segment
+grows from ~30% (18-34) to
+~55% (65+) — a structural gap.
+"This stacked view makes the age gap visceral. The green band — that's 'interested' — goes from 47% for 18-34 down to 14% for 65+. Meanwhile the red band — 'not interested' — grows from roughly 30% to over 55%. This isn't a marginal difference — it's a structural gap that widens with each age cohort."
+
+Data: Hassle-Free Switching Appeal by Age
+INTERPRETATION:
+If switching were completely
+hassle-free (someone else does
+ALL the work), how much more
+likely to switch?
+
+18-34 responds strongly to this
+value prop. 55+ does not — they
+aren't switching regardless of
+how easy you make it.
+"This is the hassle-free switching question with confidence intervals. You can clearly see the means declining with age, and the error bars don't overlap between 18-34 and the older groups — meaning the differences are real, not noise. Younger adults genuinely respond to 'we remove all the friction' as a value proposition."
+
+Data: Likelihood to Consider Boost After S2D Exposure
+BUSINESS OUTCOME METRIC:
+After seeing S2D concept,
+would you consider Boost?
+
+18-34: 4.78/7 (above midpoint)
+65+: 3.77/7 (below midpoint)
+
+S2D exposure moves the needle
+meaningfully for 18-44 but has
+minimal impact on 55+.
+"This is the business outcome metric — after learning about S2D, how likely are you to consider Boost next time you're looking? 18-34 is above the scale midpoint. 65+ is well below. S2D exposure moves the needle for young adults but barely registers for older ones."
+
+Data: Prior Awareness of In-Home Setup Service
+Q: Before today, were you aware any carrier offers in-home phone setup? (C48896)
+
+  18-34: Heard of Boost S2D=18%, Heard from other company=30%, Never heard of this=46%, Not sure=4%
+  35-44: Heard of Boost S2D=20%, Heard from other company=20%, Never heard of this=54%, Not sure=4%
+  45-54: Heard of Boost S2D=13%, Heard from other company=14%, Never heard of this=59%, Not sure=12%
+  55-64: Heard of Boost S2D=4%, Heard from other company=10%, Never heard of this=77%, Not sure=8%
+  65+: Heard of Boost S2D=4%, Heard from other company=2%, Never heard of this=85%, Not sure=7%
+
+TAKEAWAY: Awareness is extremely low across all segments. Most have never heard of any carrier offering this.
+This is a greenfield opportunity — but also means significant education/awareness investment needed.
+
+The low awareness partially explains why even interested users don't score higher — they can't fully
+evaluate something they've never seen before. Post-launch awareness + testimonials could shift scores upward.
+"Quick but important data point: almost nobody has heard of in-home phone setup before this survey. Across all ages, the majority selected 'no idea any carrier offered this.' This is a greenfield opportunity — but it also means we need meaningful awareness investment. The upside: once people learn about it, interest is high for 18-44. The scores we're seeing are from a cold exposure — they could go higher with proper marketing."
+
+Actionable Recommendations
+1. BUDGET: Allocate 70%+ of S2D marketing spend to ages 18-44 (digital: social, search, YouTube)
+   → Data shows 3-5x higher engagement metrics vs 55+. Every $ has higher conversion potential.
+
+2. POSITIONING: Frame S2D as convenience/time-saving — NOT as 'help for the tech-challenged'
+   → Confident users want it for ease. Think DoorDash positioning, not tech support positioning.
+
+3. MESSAGING: Lead with 'Free delivery + free setup. Just pick a time that works.'
+   → Top-performing message in testing. Combine with coverage proof ('Powered by T-Mobile 5G').
+
+4. TARGETING: Focus on users actively researching carrier switches (retargeting, comparison sites)
+   → S2D converts active shoppers. It doesn't create switching intent from scratch.
+
+5. NETWORK PROOF: Always pair S2D with coverage credibility
+   → 'Worse coverage' is the #1 universal concern. S2D alone doesn't overcome this.
+
+6. REFERRAL: Build post-appointment referral program for 18-34 (NPS potential is highest)
+   → Each satisfied customer becomes an acquisition channel.
+
+7. ALTERNATIVE: Offer video-call guided setup for 45+ who want help but NOT home visits
+   → Addresses trust barriers while still capturing demand for assistance.
+
+8. GEOGRAPHIC: Target by age demographics, NOT store density. Rural ≠ higher S2D demand.
+"Alright, pulling it all together into what we should actually do. Eight recommendations in priority order. I won't read all of them but the top three: budget allocation to 18-44 through digital channels, positioning as convenience not help, and leading with the winning message. The one I want to emphasize most: always pair S2D messaging with network coverage proof. Coverage is the universal concern — S2D alone isn't enough to overcome it."
+
+Target Audience: Pursue vs Deprioritize
+HIGH ROI — PURSUE
+PRIMARY: 18-34 (n=102)
+  Interest: 3.31 | Switch: 29% likely
+  Lowest barriers | Highest NPS | Will refer
+  Channel: TikTok, IG, search, influencers
+
+SECONDARY: 35-44 (n=105)
+  Interest: 2.94 | Managing family plans
+  Channel: Comparison sites, family messaging
+
+TEST: 45-54 (n=103)
+  Interest: 2.77 | Mixed — test 'expert guidance' framing
+LOW ROI — DEPRIORITIZE
+55-64 (n=110)
+  Interest: 2.42 | Switch: 6% likely
+  'Prefer self': 13% | 'Stranger': 20%
+  Better served via phone support
+
+65+ (n=119) — DO NOT INVEST
+  Interest: 2.13 | Switch: 8% likely
+  'Prefer store': 19% (highest of any segment)
+  Structural trust barriers. Not in-market.
+  Qualitative: 'Nothing would make me choose this.'
+
+ALSO DEPRIORITIZE: Rural-first strategy
+  Data does not support (p=0.12, NS).
+────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+WHAT NOT TO DO:• Don't spend S2D budget on 65+ acquisition (ROI is 3-5x lower)• Don't position S2D as 'help for people who can't do it' (alienates confident young users who value convenience)• Don't ignore network coverage in S2D messaging (universal top concern — S2D doesn't solve it alone)• Don't pursue rural-first geographic strategy (data doesn't support it)• Don't use 'personal phone expert' messaging (tested weakest, feels like upselling)
+"Here's the targeting decision laid out clearly. Left side — green — is where we should spend: 18-34 primary, 35-44 secondary, 45-54 as a test-and-learn. Right side — red — is where we shouldn't: 55-64 deprioritize, 65+ do not invest, and don't pursue a rural-first geographic strategy. Below that I've listed the 'what not to do' — the common pitfalls that the data explicitly warns against."
+
+Store-to-Door is a CONVENIENCE play,not a HELP play.
+The people who WANT it are confident, young, and already shopping.The people who NEED it (55+) don't want strangers in their homes.Win 18-44 with convenience positioning.Serve 55+ through alternative channels.
+Source: N=539 | 5 age segments | UserZoom | June 2026 | All comparisons statistically validated | Data read from source Excel
+"I'll leave you with this. Store-to-Door is a convenience play, not a help play. The people who want it are confident, young, and already shopping. The people who need it don't want strangers in their homes. Win 18-44 with convenience positioning. Serve 55+ through alternative channels — stores, phone support, video calls. That's the path to maximum ROI on this service."
+
+Appendix: Full Metrics Summary Table
+Metric                         18-34      35-44      45-54      55-64      65+       
+───────────────────────────────────────────────────────────────────────────
+Setup Confidence (1-5):   4.33  4.39  4.15  3.53  3.17
+Switch Likelihood (1-5):   2.85  2.61  2.31  1.93  1.93
+S2D Interest (1-5):   3.31  2.94  2.77  2.42  2.13
+S2D Relevance (1-5):   3.20  2.75  2.51  2.30  2.06
+Hassle-Free Appeal (1-5):   3.18  2.79  2.57  2.30  2.19
+S2D Influence on Choice (1-5):   2.59  3.01  3.07  3.14  3.34
+Carrier Pref (A=self, B=expert) (1-5):   2.35  2.42  2.61  2.87  3.17
+Consider Boost (1-7):   4.78  4.38  4.17  3.82  3.77
+NPS / Recommend (1-10):   7.67  7.58  7.50  6.95  6.87
+
+───────────────────────────────────────────────────────────────────────────
+Statistical Tests:
+  18-34 vs 65+ (Interest): t=7.22, p=<0.001 ***
+  Rural vs Urban (Interest): t=-1.55, p=0.1229 (NS)
+  Confident 18-34 vs 65+ (Hassle): t=6.00, p=<0.001 ***
+  Switch 18-34 vs 55+ (Combined): t=7.52, p=<0.001 ***
+"And this last slide is your reference — every metric by age group plus all the statistical tests in one place. If anyone wants to dig into a specific number after this meeting, it's all here."

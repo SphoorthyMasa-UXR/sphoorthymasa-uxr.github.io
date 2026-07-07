@@ -1,0 +1,816 @@
+
+
+
+Research Overview
+To identify what motivates customers to sign up for the $25 per month Forever plan and to explore how Boost Mobile is perceived, with a focus on insights from older customers.
+7-minute online survey 
+Boost Customers: Fielded September 4th - September 8th, 2025
+UserTesting Panel (Perceived Boost customers): Launched on Sept 4th
+Total Boost Customers N=485
+Age: <35 (n=67), 35-54 (n=212), 55+ (n=206)
+Income: <$50K (n=234), $50K-$99K (n=152), $100K+ (n=99)
+Total UserTesting Panel N=200
+Age: 21-49 (n=100), 50+ (n=100)
+Income: <$25K (n=54), $25K-$49.9K (n=63), $50K-74.9 (n=44),$75k-$99.9k (n=19), $100k-$149.9k (n=15), $150k-199.9k(n=3), $200k< (n=1), Prefer not to answer (n=2)
+Signed up for $25/Forever plan between 1/1/25 through 8/28/2025
+Not a Boostscriber or current EchoStar employee
+Methodology
+Objectives
+Screening Criteria
+Sample Size
+
+
+
+
+Q. If you were to see one of the below two advertisements online, what aspects, if any, would lead you to click on it?
+Base: Total N=485, <35 years old (n=67), 35-54 years old (n=212), 55+ years old (n=206); <$50K (n=234), $50K-$99K (n=152), $100K+ (n=99)
+
+Factors influencing 
+clicks on ads
+Total
+Age
+Income
+18-34
+
+35-54
+
+55+
+
+<$50K
+
+$50K-
+$99K
+
+$100K+
+
+Price
+63%
+67%
+71%
+65%
+74% 
+65%
+57%
+Messaging
+20%
+18%
+18%
+22%
+22%
+18%
+15%
+Imagery
+18%
+21% 
+21% 
+14%
+21% 
+17%
+13%
+Colors 
+14%
+25% 
+14%
+10%
+15%
+14%
+11%
+Font
+12%
+22% 
+14% 
+7%
+14%
+12%
+10%
+Other
+2%
+1%
+2%
+2%
+2%
+1%
+3%
+I wouldn’t click on this ad
+23%
+21%
+19%
+28% 
+20%
+22%
+31% 
+Price is the main driver of ad clicks, followed distantly by other messaging and imagery.
+Creative Shown
+
+Q. Which aspects of Boost’s branding or marketing resonate with you? Select all that apply
+Base: Total N=485, <35 years old (n=67), 35-54 years old (n=212), 55+ years old (n=206); <$50K (n=234), $50K-$99K (n=152), $100K+ (n=99)
+
+Aspects of Boost Marketing that Resonate Best
+Total
+Age
+Income
+18-34
+
+35-54
+
+55+
+
+<$50K
+
+$50K-$99K
+
+$100K+
+
+Price
+74%
+67%
+73%
+78% 
+77%
+72%
+69%
+Messaging
+20%
+18%
+19%
+22%
+23% 
+20%
+14%
+Imagery
+13%
+25% 
+13%
+9%
+15% 
+13%
+7%
+Colors
+13%
+30% 
+14% 
+7%
+15%
+12%
+11%
+Fonts
+10%
+24% 
+9%
+5%
+10%
+10%
+8%
+No Aspect Resonates With Me
+18%
+21%
+17%
+18%
+16%
+19%
+22%
+Price is the leading converter across segments, but 18 - 34 also value imagery, colors, and fonts.
+1
+2
+
+Q. What other factors, if any, influenced your decision to sign up with Boost Mobile? Select all that apply
+Base: Total N=485, <35 years old (n=67), 35-54 years old (n=212), 55+ years old (n=206); <$50K (n=234), $50K-$99K (n=152), $100K+ (n=99)
+
+Other Reasons to Choose 
+Boost Mobile
+Total
+Age
+Income
+18-34
+
+35-54
+
+55+
+
+<$50K
+
+$50K-$99K
+
+$100K+
+
+BYOD Options
+45%
+42%
+44%
+47%
+46%
+42%
+46%
+Simplicity of Plans
+42%
+51% 
+41%
+39%
+41%
+44%
+38%
+Ads/Promo Offers
+20%
+24% 
+23% 
+15%
+18%
+23%
+17%
+Recommended by Someone You Know
+15%
+16%
+16%
+13%
+11%
+23% 
+11%
+Customer Service
+14%
+9%
+10%
+20% 
+19% 
+10%
+9%
+Reputation
+7%
+4%
+8%
+8%
+10% 
+7% 
+1%
+Online Reviews
+7%
+9%
+8%
+8%
+6%
+8%
+10%
+None of the Above
+15%
+19%
+15%
+14%
+15%
+14%
+15%
+The ability to bring a phone and simplicity of plans are other reasons why customers choose Boost Mobile.
+
+
+
+
+Q. Before signing up, how did you perceive Boost Mobile? Select all that apply.
+Base: Total N=485, <35 years old (n=67), 35-54 years old (n=212), 55+ years old (n=206); <$50K (n=234), $50K-$99K (n=152), $100K+ (n=99)
+
+Perceptions of Boost Mobile
+Total
+Age
+Income
+18-34
+
+35-54
+
+55+
+
+<$50K
+
+$50K-$99K
+
+$100K+
+
+Good Value For The Price
+43%
+33%
+41%
+49% 
+46%
+41%
+38%
+Cheap
+31%
+51% 
+32% 
+23%
+30%
+36% 
+23%
+Basic or No-Frills
+23%
+27%
+22%
+24%
+21%
+28%
+22%
+Not Familiar Enough To Say
+17%
+10%
+17%
+19% 
+18%
+13%
+21% 
+A Brand That Is Improving
+17%
+22%
+18%
+14%
+15%
+20%
+15%
+Reliable or Trustworthy
+15%
+12%
+15%
+17%
+18% 
+14%
+10%
+A Brand I Would Consider Now More Than Before
+14%
+12%
+15%
+15%
+20% 
+11%
+6%
+A “Burner Phone” Brand
+12%
+22% 
+14% 
+6%
+7%
+15% 
+17% 
+Outdated or Behind The Times
+6%
+18% 
+5%
+3%
+4%
+9% 
+6%
+Innovative or Modern
+6%
+3%
+7%
+5%
+7% 
+6% 
+1%
+Most consider Boost Mobile a good value, cheap, and no frills. Those 55+ are most likely to see it as good value for price and least likely to see it as a “burner phone” brand or outdated.
+
+Q. In a few words, please describe how your perception of Boost Mobile has changed, if at all, since becoming a customer.
+Customers offer mixed reviews across price, coverage and customer service.
+Theme 1: Price & Value Recognition
+Respondents are highly price sensitive. Some stay with Boost because of affordability, others feel misled by promotions or disappointed by data limitations.
+
+“I am simple. I enjoy paying very little for a very straightforward and very reliable service… Your price lock guarantee is a HUGE selling factor.”
+
+“I’m getting the same service [as Verizon] for 25% of the price.”
+
+“Coverage is decent, pricing is great.”
+
+“The ad advertised $10 per month for two months … but on checking … it says I have to pay $25 which is not what was promised.”
+
+“Price seems misleading. Price is not good for the service. Not realistic and not a good value for the service received.”
+Theme 2: Customer Service & Trust
+Customer service drives some mixed sentiment, with complaints about dishonored promotions, difficulty with canceling service, and poor interactions.
+
+
+“The only cell phone company I can actually get ahold of a live agent keeps me coming back.”
+
+“Customer Service is far superior to most other carriers, Especially AT&T.”
+
+“Boost does not adhere to promotional offers. You call and they have NO IDEA of the promotion you signed up for!”
+
+“I quit Boost after first month. Boost promised a rate for 3 months and then did not honor that rate.”
+
+“Boost was unable to complete my service and did not refund my money paid out!”
+
+“Customer service is helpful sometimes, though I've had horrible service in an actual store.”
+Theme 3: Coverage & Service Quality
+Some praise coverage as better than expected, while others complain about weak service, dead spots, or technical issues.
+
+
+“Very good coverage, excellent pricing, overall excellent service.”
+
+“Besides price, coverage is better than what I had with Verizon in my area.”
+
+“The signal comes and goes so I probably will look for something else for next month.”
+
+“Coverage is worse than expected. 5G is claimed, but I have not yet been able to connect using it.”
+
+“Thought coverage would be better in our area but unfortunately it is not good.”
+
+“While I appreciate the cost savings, I barely get phone service … Most people who call me say they didn’t hear me speak.”
+
+Q. On a scale from 0-10, how likely are you to recommend Boost Mobile to your family and/or friends?
+Base: Total N=485, <35 years old (n=67), 35-54 years old (n=212), 55+ years old (n=206); <$50K (n=234), $50K-$99K (n=152), $100K+ (n=99)
+
+Those 55+ years old are more likely to recommend Boost Mobile compared to their counterparts.
+Likelihood to Recommend Boost Mobile to Family/Friends
+Total
+Age
+Income
+18-34
+
+35-54
+
+55+
+
+<$50K
+
+$50K-$99K
+
+$100K+
+
+NPS
+1%
+-14%
+-7%
+18% 
+15%
+-7%
+-21%
+Promoter (9-10)
+42%
+28%
+37%
+51% 
+47% 
+40%
+32%
+Passive (7-8)
+17%
+19%
+19%
+15%
+21% 
+13%
+15%
+Detractor (0-6)
+41%
+52% 
+44% 
+33%
+32%
+47% 
+53% 
+
+
+Next Steps
+1. Redesign Core Landing Pages - Link to previous survey insights 
+Pricing alignment: Match ad and landing page prices, clarify store vs online differences, and align cart pricing with expectations.
+Clear offer positioning: Lead with $25/month, frame $10/month as a short-term savings, reduce fine-print confusion.
+Transparency: Add plan details (data caps, device requirements, why is the price low) above the fold, provide off-ramps for more deals without disrupting checkout.
+2. Map Survey Responses to CI Segmentation - Estimated Timeline: Sept 15
+Connect survey findings to the existing CI bubble chart.
+Identify projected high-potential target areas.
+3. Target Priority Segments
+Share target audience insights with Ovative.
+Focus paid efforts on the highest-conversion customer segments.
+
+Appendix
+
+
+
+Q. How important was price compared to other factors in your decision to sign up for Boost Mobile?
+Base: Total N=485, <35 years old (n=67), 35-54 years old (n=212), 55+ years old (n=206); <$50K (n=234), $50K-$99K (n=152), $100K+ (n=99)
+
+Importance of Price
+Total
+Age
+Income
+18-34
+
+35-54
+
+55+
+
+<$50K
+
+$50K-$99K
+
+$100K+
+
+Top 2 Box
+87%
+85%
+88%
+88%
+90% 
+87%
+83%
+     Extremely Important
+51%
+55%
+53%
+49%
+53%
+49%
+52%
+     Very Important
+36%
+30%
+35%
+39%
+37%
+38%
+31%
+Somewhat Important
+7%
+3%
+7%
+8%
+5%
+7%
+12%  
+Not Very Important
+3%
+7% 
+3%
+2%
+3%
+3%
+2%
+Not At All Important
+2%
+4%
+2%
+2%
+2%
+2%
+3%
+Price significantly outweighs other factors in people’s decision to sign up for Boost Mobile.
+
+Insights (Perceived Boost Customers)
+Sign-ups were primarily motivated by perceived value and plan affordability rather than specific ad or landing page details.
+Price sensitivity came through strongly, with repeated mentions of good prices, cheap plans, and attractive deals.
+The ad and landing page captured attention, but clarity of information still did not stand out as a driver.
+Younger users (<55) tended to mention curiosity and design appeal
+Older users highlighted trust in service quality and reliability.
+
+Thematic Clusters  (Perceived Boost Customers)
+
+Survey Questions (Perceived Boost Customers).
+
+UserTesting Results (Perceived Boost Customers).
+
+UserTesting Results (Perceived Boost Customers).
+
+UserTesting Results (Perceived Boost Customers).
+
+
+Q. How important is it to see yourself reflected in the imagery of an advertisement?
+Base: Total N=485, <35 years old (n=67), 35-54 years old (n=212), 55+ years old (n=206); <$50K (n=234), $50K-$99K (n=152), $100K+ (n=99)
+
+Those 55+ and $100K+ say they care less about seeing themselves reflected in ads, which may explain why Boost Mobile has been successful with this audience even with “younger & skateboard” imagery.
+Importance of Seeing Self Reflected in Advertising
+Total
+Age
+Income
+18-34
+
+35-54
+
+55+
+
+<$50K
+
+$50K-$99K
+
+$100K+
+
+Top 2 Box
+19%
+31% 
+22% 
+11%
+24% 
+18% 
+10%
+     Extremely Important
+9%
+16% 
+11% 
+4%
+10%
+11% 
+5%
+     Very Important
+10%
+15% 
+11%
+7%
+14% 
+7%
+5%
+Somewhat Important
+22%
+24%
+27% 
+17%
+26% 
+22% 
+13%
+Not Very Important
+18%
+13%
+17%
+20%
+15%
+18%
+26% 
+Not At All Important
+40%
+31%
+33%
+49% 
+34%
+43% 
+51% 
+
+Q. How did you first learn about Boost Mobile? Select all that apply.
+Base: Total N=485, <35 years old (n=67), 35-54 years old (n=212), 55+ years old (n=206); <$50K (n=234), $50K-$99K (n=152), $100K+ (n=99)
+
+How First Learned About Boost Mobile
+Total
+Age
+Income
+18-34
+
+35-54
+
+55+
+
+<$50K
+
+$50K-$99K
+
+$100K+
+
+Online Search
+22%
+24%
+20%
+22%
+24%
+20%
+20%
+Family/Friend Recommendation
+19%
+19%
+21%
+17%
+17%
+24% 
+16%
+TV Commercial
+16%
+4%
+17% 
+18% 
+14%
+22% 
+13%
+Boost’s Website
+14%
+16%
+14%
+13%
+15%
+14%
+11%
+Social Media Posting
+12%
+9%
+13%
+11%
+12%
+14% 
+7%
+Ad On Social Media
+9%
+13%
+7%
+11%
+12% 
+7%
+5%
+Ad On Website
+8%
+4%
+11% 
+7%
+8%
+10%
+8%
+At A Boost Mobile Store
+6%
+12% 
+8% 
+2%
+6%
+7%
+6%
+Saw Boost Mobile in a Store
+5%
+4%
+7%
+5%
+4%
+8% 
+4%
+Most first learned about Boost Mobile through online search and recommendations from friends/family.  
+
+Q. What was the main reason you chose Boost Mobile as your mobile phone service provider?
+Base: Total N=485, <35 years old (n=67), 35-54 years old (n=212), 55+ years old (n=206); <$50K (n=234), $50K-$99K (n=152), $100K+ (n=99)
+
+Main Reasons to Choose 
+Boost Mobile
+Total
+Age
+Income
+18-34
+
+35-54
+
+55+
+
+<$50K
+
+$50K-$99K
+
+$100K+
+
+Price of Plans
+63%
+63%
+62%
+64%
+61%
+62%
+69%
+Flexibility/No contract plans
+13%
+10%
+14%
+12%
+12%
+14%
+11%
+Network coverage
+7%
+7%
+8% 
+4%
+7%
+7%
+6%
+Allows me to bring my current phone
+3%
+3%
+4%
+3%
+5%
+4%
+0%
+Allows me to bring my current phone number
+3%
+1%
+2%
+5% 
+4%
+4%
+1%
+Features of plans
+2%
+0%
+1%
+2%
+2%
+1%
+2%
+Device Selection
+1%
+4% 
+1%
+0%
+1%
+2%
+1%
+All of The Above
+8%
+10%
+7%
+8%
+8%
+7%
+10%
+Price of plans is by far the top reason why respondents chose Boost Mobile, distantly followed by flexibility / no contracts.
+
+Thank You

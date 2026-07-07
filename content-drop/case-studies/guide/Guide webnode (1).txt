@@ -1,0 +1,304 @@
+﻿This is on webnode:
+On the previous page like page that displays all case studies: The Guide is meant to help users find something to watch quickly. But over time, layered design decisions made this essential feature harder to navigate and less intuitive to use. What should be a fast, intuitive path to content had become a source of friction. This evaluation set out to understand where the experience was breaking down, how users were adapting (or not), and what could be done to make content discovery feel seamless, clear, and genuinely helpful again.
+
+On the specific case study page
+Feature Evaluation - Guide
+Background & Context
+
+
+The guide sits at the heart of content discovery, helping users stumble into something they didn't even know they wanted. This project examined how people actually use and perceive the guide, uncovering ways to enhance usability and personalization without compromising the familiarity that long-time users rely on.
+
+
+Business goals included:
+
+
+Increasing adoption of underutilized guide features
+Reducing CX complaints by 12%
+Improving guide-related task success rate by 90% 
+Improve the usability score of the proposed solution to 85%
+This research was part of a larger initiative to unify and streamline experiences between Sling TV and Dish TV, which historically evolved in parallel, serving distinct customers.
+
+
+
+
+Objectives:
+
+
+Identify and understand user frustrations, behaviors, and unmet needs in the current guides (Sling TV and Dish TV).
+Uncover platform-specific and shared pain points to guide unification efforts.
+Investigate personalization and accessibility opportunities to enhance feature adoption.
+Benchmark against competitors to evaluate trends and best practices.
+Deliver actionable design and research recommendations that balance user needs and business goals.
+
+
+
+
+Target Audience & User Segments
+DISH TV Subscribers (65+):
+Remote-based users who tolerate outdated UI but struggle with hidden features; often have accessibility needs.
+
+
+Sling TV Subscribers (~35):
+Tech-savvy, expect fast, intuitive interfaces; seek quick access to specific content across devices.
+
+
+Shared Behaviors:
+Watch 3+ hrs/day, use the guide 2+ times daily for casual browsing; mixed familiarity with sub-features, users that exited the launched content within 10s from the guide, etc.
+
+
+
+
+Process & methodologies stakeholder interviews-> data analysis(existing) -> defining project scope -> generative user interviews -> synthesis& insights mapping-> design collaboration & ideation -> usability testing-> handoff and implementation (this is a flow so amke a diagram or visualize it)
+
+
+
+
+Tools & Platforms
+
+
+UserZoom - Unmoderated usability testing and survey collection
+Figma - Collaborative design brainstorm, review, and iteration. Usability Testing
+User Interviews - Recruitment and scheduling the interviews.
+Google Suite - Scheduling, recording, and documentation along with shareouts
+Figjam - KJ analysis of user feedback
+Dish Internal Analytics Dashboards - Identifying, tracking guide usage, feature adoption, and behavioral patterns
+Guides prior to Research:
+
+
+
+
+(i’ll include images in the folder)
+
+
+
+
+
+
+Quantitative Data Analysis & Key Insights: 
+
+
+ 1. Guide Engagement Is High, But Not Always Effective
+
+
+Sling TV: 1.73M accounts used the guide (79% of active users); 56% led to playback
+DISH TV: 2.58M households used the guide (86%); only 48% led to playback
+🔍 Insight: While adoption is strong, many sessions end without watching anything, highlighting a need to improve content discoverability and reduce drop-offs.
+
+
+2. Underutilized Filters and Customization Features (Sling)
+
+
+Despite multiple guide filter options, most users stick with the default "ALL" view: 73% of sessions used "ALL"
+
+
+Only 12% switched filters; Only 9% of users accessed the "Favorites" filter, yet those sessions saw a 63.9% playback rate, significantly higher than the 55.4% rate for sessions without it.
+🔍 Insight: Favorites clearly improve engagement but remain underused.
+
+
+3. High Drop-Offs in Short Sessions:
+
+
+44% of Sling guide sessions ended without playback
+Most of these lasted <20 seconds
+🔍 Insight: Users often abandon quickly,suggesting poor content surfacing or lack of clarity.
+
+
+4. Dish Guide Navigation Behavior
+
+
+Dish users tend to rely on familiar, vertical navigation, often out of habit:
+
+
+46.4% started navigating vertically (more "Up" than "Down" presses)
+Only 7.8% used horizontal navigation by time
+17.8% jumped directly to a channel using digit keys
+15.3% exited the guide without any interaction
+🔍 Insight: Many users default to habitual patterns and may not be aware of quicker, more efficient navigation options.
+
+
+Summary of Key Behavioral SegmentsBehavior / InsightSling UsersDISH UsersGuide Engagement Rate79%86%Playback Success Rate56%48%Use of "Favorites"9%N/ADevice PreferenceTV > Phone > BrowserTV-based onlyNavigation StyleFilter-based & tile selectionMostly vertical, some digit-basedAccelerator Key UseNot available or not trackedUnderutilized (15–20% use cases)Immediate Exit without Playback44% of guide sessions29% of guide sessions
+Summary of Key Behavioral Segments
+Behavior / Insight
+	Sling Users
+	DISH Users
+	Guide Engagement Rate
+	79%
+	86%
+	Playback Success Rate
+	56%
+	48%
+	Use of "Favorites"
+	9%
+	N/A
+	Device Preference
+	TV > Phone > Browser
+	TV-based only
+	Navigation Style
+	Filter-based & tile selection
+	Mostly vertical, some digit-based
+	Accelerator Key Use
+	Not available or not tracked
+	Underutilized (15–20% use cases)
+	Immediate Exit without Playback
+	44% of guide sessions
+	29% of guide sessions
+	
+
+
+
+After analyzing quantitative data on user behaviors, we refined the research scope to focus on key friction points, such as why users weren't using filters or were exiting the guide without initiating playback, and conducted targeted user interviews with task-based scenarios to uncover deeper insights.
+
+
+
+
+
+
+
+
+Executive Summary
+Sling
+* Overall, participants expressed positive sentiments regarding the Guide's general usability.
+* Despite its potential benefits, Guide filters are notably underutilized, primarily due to users' lack of awareness of the top filters or reluctance to disrupt their current viewing flow.
+* Participants highlighted the issue of an excessively long channel lineup cluttered with "unwanted channels," indicating a preference for the option to hide channels to streamline their viewing experience.
+Dish
+* Users prioritize simplicity and intuitive navigation for personalization over complex features.
+* While younger users utilize "Lists" for guide personalization, older generations are unaware of this feature.
+* Unwanted channels disrupt content launch time and inconvenience users who must skip through them daily.
+
+
+Suggestion 1 | UNIFICATION
+Focus on the user’s learning curve
+* Humans tend to stick to familiar habits, even if slightly inconvenient.
+* Fear of the unknown often leads to hesitancy in embracing significant changes.
+* Encourage gradual transitions to new methods to alleviate fear of the unknown.
+* Implement reversible changes and offer user-friendly functionalities to minimize disruption to the current workflow.
+Graph Data
+* Y-Axis: Learning Rate (0.00 to 0.30)
+* X-Axis: Age Group (20 to 80)
+* Trend: Learning rate gradually decreases from age 20 to 50, drops sharply between 50 and 60, and plateaus from 60 to 80.
+Suggestion 2 | UNIFICATION
+Need for an Intuitive Channel lineup
+* Understand what users think are unwanted channels and populate the channels they want first.
+* Add indicators such as scroll bar as they navigate the guide.
+* Clear representation of “Entitled content” - # of channels
+* Give control to the users: Consider having a filter named “Hidden channels” and functionality to hide/unhide channels
+Suggestion 3 | UNIFICATION
+Balance the Customizable and Standard filters
+* Dish offers user-centric "Lists" where subscribers can create their own playlists, while Sling relies on predetermined categories such as sports, entertainment, and news.
+* While “Lists” give the user control, most users do not use them or are not aware of them. Finding a balance between both will create more personalized experiences.
+* Provide clear and easily accessible tutorials or guides for users on how to effectively utilize filters and customize their program guide without fear of losing channels.
+* Explore having a safety net process like undo or final confirmation before applying changes
+Suggestion 4 | UNIFICATION | SLING
+Educate Favoriting for Quicker Content Launch
+* Only 9% of guide sessions utilize the Favorites feature. However, within this subset of the guide sessions, the content playback rate is 63.9% (8.5% higher than playback from non favorites)
+* Educating more users about Favorites could enhance content playback sessions.
+* Some participants express hesitancy to use Favorites, fearing disruptions to their workflow.
+* There is a need for increased user confidence when making changes.
+
+
+
+
+
+
+
+
+Suggestion 5 | UNIFICATION | DISH
+Explore adding more info to the synopsis
+* Users who are browsing the guide to find something new to watch heavily rely on the content synopsis
+* Consider adding a "more" option for detailed show information in synopses.
+* Simplifying the interface and improving synopses could enhance user experience and engagement.
+Suggestion 6 | UNIFICATION
+Prioritizing Accessibility in Design
+* Establish a design framework that prioritizes accessibility from the outset.
+* Ensure that our design adheres to recognized accessibility standards, such as the Web Content Accessibility Guidelines (WCAG).
+* Pay careful attention to visual design elements, such as color contrast and font size, to enhance readability and usability for individuals with visual impairments.
+
+
+
+
+
+
+
+
+Ideation & Usability Testing
+
+
+Building on the research insights, the team collaborated across design, product, and engineering to translate findings into actionable solutions, breaking down each pain point into manageable projects to enable iterative improvements. For each sub-feature, usability tests were conducted and UMUX-Lite scores were measured to evaluate usability, alongside task success and completion rates to ensure each solution effectively addressed the identified user needs. Below are some of the key changes already delivered to users, with more enhancements planned in the coming months.
+
+
+
+
+Results
+
+
+Expanded Filter Segmentation
+Built on the redesigned side panel, we introduced clearly labeled filter categories and elevated Favorites as a central entry point.
+Impact:
+* Filter use up 39% ➔ ROI: ~$2.1M/year
+* Favorites engagement up 57% ➔ ~$1.23M/year
+* Launch time dropped from 25s to 21s ➔ Ad revenue boost: ~$28.8K/year
+Quick Channel Favoriting
+Introduced a right-hand drawer for instant favoriting—no need to leave the guide. Users can now build personalized channel lists in seconds.
+Impact:
+* Favorites engagement up 62% ➔ ROI: ~$1.34M/year
+* Repeat viewership improved by 21% ➔ Value boost: ~$75.6K/year
+* Favoriting now takes under 3 seconds, reducing drop-offs during personalization
+Decluttering the Guide
+With 700+ live channels, FreeStream cluttered the guide. A toggle to hide non-entitled channels now gives users control—streamlining discovery without limiting access.
+Impact:
+* Browsing time down 18% ➔ Ad revenue boost: ~$216K/year
+* Engagement with entitled content up 26% ➔ Revenue lift: ~$2.8M/year
+* “Too many channels” complaints dropped to <2%
+Modernizing Program Info
+To modernize the Dish guide, we shifted program details from the side to the top of the screen making key information easier to read.
+Impact:
+* 9/10 users reported better readability and visual flow
+* Aligned with modern UI standards, supporting long-term design evolution
+* Perceived as cleaner, calmer, and less overwhelming
+Guide Onboarding
+As new features like filters and channel personalization were added, we launched a simple onboarding flow to help users learn and use them quickly.
+Impact:
+* Helped users discover new features within their first 2 sessions
+* 82% completed the walkthrough without drop-off
+* “How do I use this?” CX tickets dropped by 31% post-launch
+* Faster feature adoption with no interruption to content browsing
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Total Estimated Annual Value Impact: ~$7.46M
+
+
+Ad Revenue from Faster Playback: ~$193,500
+ - Faster content launches lead to more successful playbacks and earlier ad impressions across ~1.3M users.
+
+
+Revenue from Feature Upsells: ~$1.94M
+ - Roughly 10% of users exposed to personalized guides, with 30% converting into upsells averaging $15.
+
+
+Survey Operations Cost Savings: ~$63,000
+ - Reduced need for recurring guide surveys saves researcher time, Qualtrics licensing, and internal ops resources.
+
+
+Revenue from Increased Retention: ~$5.83M
+ - A 1% retention lift across the base (due to smoother, personalized UX) protects long-term subscription value.
+
+
+Do you know what's difficult than conducting an extensive research for months? Converting 600 pages of data into a bitable project for portfolio

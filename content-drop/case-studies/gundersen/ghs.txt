@@ -1,0 +1,174 @@
+﻿On case studies page: Gundersen Pharmacy App is a digital platform launched across 14 pharmacies, serving over 1 million patients annually. It was designed to streamline the prescription refill experience. Despite its potential, user engagement drops sharply after an initial wave of signups.
+This project investigates the root causes behind stalled adoption and reimagines the app experience to better serve both patients and staff. Through user research, workflow mapping, and iterative design, we uncover key barriers and transform the app into a seamless, scalable solution. Sometimes, what holds a product back is not the design itself but everything happening around it.
+
+
+On specific page;
+
+
+
+
+
+
+Gundersen Pharmacy
+
+
+Background 
+
+
+The pharmacy app plays a critical role in simplifying and modernizing the prescription refill experience. Designed to reduce the repetitive, manual burden on pharmacists, who spend several minutes on each refill request. The app also empowers patients to take control of their medication management. 
+
+
+Research Goals:
+
+
+Boost Adoption: Achieve 10,000+ active app users within 6 months.
+
+
+Drive Prescription Orders: Convert 25% of monthly refills (11,250 orders) through the app.
+
+
+Automate Communications: Deliver 10,000+ refill reminders & status messages monthly to reduce outbound pharmacy calls.
+
+
+Reduce Staff Burden:
+
+
+Decrease pharmacist time spent on refill calls by 50%, saving 1,300+ hours/month.
+
+
+Reduce MA and physician back-and-forth by introducing automated prescription expiration alerts and digital approval workflows.
+
+
+Cost Optimization: Recover up to $1M/year in lost labor time and redirect pharmacist efforts toward clinical support.
+
+
+Research emthodologies (runnng parallely) stakeholder interviews -> workflow analysis -> patient interviews -> analysis. Stakeholder interviews -> heuristic evaluation -> usbaility tetsing -> analysis ->insights
+
+
+Target Audience 
+Patients:
+
+
+5 out-patient users
+
+
+4 pharmacy users
+
+
+Staff:
+
+
+5 Pharmacists
+
+
+3 Registered Nurses (RN)
+
+
+2 Medical Assistants (MA)
+
+
+Prescription Refill Process
+Flowchart Breakdown
+* Main Path: [Needs a Refill] ➔ [Patient] ➔ (Calls) ➔ [Pharmacy] ➔ [Eligibility & Refill status]
+* If Verified: [Eligibility & Refill status] ➔ [Refills and Est. Time] ➔ [Refill Complete]
+* If Not Verified: [Eligibility & Refill status] ➔ [Contact RN or MA] ➔ [Physician] ➔ [Update Eligibility & Refills] (Note: Contact RN or MA also routes back to Pharmacy)
+Here's what the manual workflow looks like:
+1. Patient calls the pharmacy.
+2. Pharmacist spends 2–5 minutes reviewing the request.
+3. If the prescription is expired, the pharmacist or staff must coordinate with a Medical Assistant (MA) or physician, creating time-consuming back-and-forth.
+4. Once approved, the pharmacist must call the patient back to notify them the refill is ready.
+While each refill seems manageable in isolation, the scale is staggering:
+* 45,000 refills/month × avg. 3.5 mins/refill = 2,625 hours/month
+* That's equivalent to ~15 full-time pharmacist workweeks spent just managing refills via phone calls.
+* During peak hours, this also translates into delayed care, frustrated patients, and a drain on operational revenue.
+If we assume an hourly pharmacist labor cost of $65/hour, that's: $170,625/month (~$2M/year) in time spent managing manual refills that could be automated through a robust app experience.
+
+
+
+
+Key Insights from Heuristic Analysis + Usability Testing
+Minimalist UI with Functional Clarity
+The app delivers core functionality with ease. Users can refill prescriptions with just a few taps, eliminating confusion.
+
+
+High Learnability
+Users require little to no onboarding due to the app's clear structure and intuitive flow.
+
+
+Flat Visual Design Reduces Perceived Value
+While functional, the basic visual styling may not instill trust or convey the full value of the service.
+SUS Score: 78 (solid usability, but room for emotional engagement).
+
+
+Seamless Task Completion
+Key actions like viewing prescriptions, initiating refills, and confirming orders are logically placed and easy to access.
+Task success rate: 95% during testing.
+
+
+Limited Engagement Cues
+The app lacks visual feedback, micro-interactions, or personalization. Some elements that could improve retention and reinforce usage.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The Unexpected Find
+
+
+During the interviews, one pattern emerged that no usability test could have predicted. Most patients were unaware that the pharmacy app even existed. Despite being regular users of the health system, they had never seen it mentioned in their patient portal, during visits, or on pharmacy receipts. One patient laughed and said, "If I knew there was an app that saved me from calling, I would've used it months ago." It quickly became clear that the issue with the application was the absence of visibility around it. This unexpected insight reframed the problem: we didn't just need a better product; we needed a better awareness strategy. 
+
+
+Research Solution: Awareness Campaign
+
+
+Display posters and flyers with at all 14 pharmacy locations.
+
+
+Add a friendly script for pharmacists to mention the app during calls and pickups.
+
+
+Send email and physical mailers to patients highlighting app benefits.
+
+
+Include app links and banners in the patient portal(MyChart) and on Gundersen Health System's website.
+
+
+Post regular reminders on social media and monitor app usage throughout the month.
+
+
+
+
+Impact
+
+
+Reached 12,334 active app users within 6 months, hitting the adoption milestone.
+
+
+Averaged 16,476 monthly prescription refills through the app, covering over 36% of total refill volume.
+
+
+Delivered 21,321 automated refill reminders and status messages monthly, significantly reducing outbound communication efforts.
+
+
+Saved approximately 900 pharmacist hours per month, translating to $58,500/month or $702,000/year in labor cost savings.
+
+
+Reduced refill-related workload for MAs and providers by streamlining expired prescription approvals and minimizing back-and-forth coordination.
+
+
+Improved patient satisfaction and service turnaround by shifting more refills to a self-service, app-based experience.
+
+
+© 2019 SPHOORTHY_MASA
+Powered by Webnode
+This website was made with Webnode. Create your own for free today!
+Get started

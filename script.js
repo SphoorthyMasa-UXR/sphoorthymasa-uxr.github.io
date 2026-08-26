@@ -315,7 +315,7 @@ class Carousel {
     }
     next() { this.goTo((this.current + 1) % this.total); }
     prev() { this.goTo((this.current - 1 + this.total) % this.total); }
-    startAuto() { this.autoInterval = setInterval(() => this.next(), 3000); }
+    startAuto() { this.autoInterval = setInterval(() => this.next(), 7000); }
     stopAuto() { clearInterval(this.autoInterval); }
     restartAuto() { this.stopAuto(); this.startAuto(); }
 }
@@ -404,10 +404,7 @@ document.querySelectorAll('a[href^="#"]').forEach(a => {
     });
 });
 
-// ===== PASSWORD GATE (legacy, safe to remove) =====
-function initGate() {
-    // No longer used - password gate removed
-}
+
 
 // ===== INIT =====
 document.addEventListener('DOMContentLoaded', () => {
@@ -418,7 +415,6 @@ document.addEventListener('DOMContentLoaded', () => {
     new CounterAnimation();
     new CaseStudyExpand();
     new Navigation();
-    initGate();
     initServicesForm();
 });
 
@@ -434,14 +430,4 @@ function initServicesForm() {
             }
         });
     }
-}
-
-function handleFormSubmit(e) {
-    e.preventDefault();
-    const form = document.getElementById('contact-form');
-    const success = document.getElementById('form-success');
-    // In production, this would POST to a service like Formspree
-    form.classList.add('hidden');
-    success.classList.remove('hidden');
-    return false;
 }

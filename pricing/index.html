@@ -184,13 +184,13 @@
         .tier.featured::after {
             content: 'POPULAR';
             position: absolute;
-            top: 12px;
-            right: -28px;
+            top: 18px;
+            right: -24px;
             background: var(--gold);
             color: var(--forest-deep);
-            font-size: 0.6rem;
+            font-size: 0.55rem;
             font-weight: 700;
-            padding: 2px 30px;
+            padding: 3px 28px;
             transform: rotate(45deg);
             letter-spacing: 1px;
         }
@@ -305,6 +305,47 @@
             white-space: nowrap;
         }
 
+        /* Custom plan CTA */
+        .custom-plan {
+            margin-top: 1.5rem;
+            padding: 1.2rem 1.5rem;
+            background: var(--forest-deep);
+            border-radius: 14px;
+            text-align: center;
+            animation: fadeUp 0.6s 0.95s ease forwards;
+            opacity: 0;
+            transform: translateY(15px);
+            transition: all 0.3s ease;
+        }
+
+        .custom-plan:hover {
+            box-shadow: 0 8px 24px rgba(212, 168, 49, 0.2);
+            transform: translateY(-2px);
+        }
+
+        .custom-plan p {
+            font-size: 0.85rem;
+            color: var(--cream);
+            margin-bottom: 0.6rem;
+            font-weight: 400;
+        }
+
+        .custom-plan a {
+            display: inline-block;
+            font-size: 0.78rem;
+            font-weight: 600;
+            color: var(--gold-bright);
+            text-decoration: none;
+            padding: 0.4rem 1.2rem;
+            border: 1.5px solid var(--gold);
+            border-radius: 20px;
+            transition: all 0.3s ease;
+        }
+
+        .custom-plan a:hover {
+            background: var(--gold);
+            color: var(--forest-deep);
+        }
         /* Footer */
         .footer {
             margin-top: 2rem;
@@ -407,7 +448,7 @@
                 <p class="tier-scope">
                     End-to-end research in days. Survey (n=500) or usability (n=15), analysis, and findings deck.
                 </p>
-                <span class="tier-time">3–5 days</span>
+                <span class="tier-time">&lt;10 days</span>
             </div>
 
             <!-- Tier 3 -->
@@ -451,6 +492,12 @@
                     <span class="addon-price">$12K–$25K</span>
                 </div>
             </div>
+        </div>
+
+        <!-- Custom Plan CTA -->
+        <div class="custom-plan">
+            <p>Don't know what to pick? Let's chat first and figure it out together.</p>
+            <a href="mailto:sphoorthymasa@outlook.com">Let's Scope It</a>
         </div>
 
         <!-- Footer -->
